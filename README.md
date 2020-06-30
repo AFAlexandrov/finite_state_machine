@@ -1,7 +1,5 @@
 # finite_state_machine (raw version)
 
---
-
 main feature is:
 
     void fsm_moore (void) {
