@@ -1,3 +1,11 @@
+/*
+ * Copyright © 2020 Feodor A. Alexandrov (feodor.alexandrov@yandex.ru)
+ *
+ * This file is subject to the terms and conditions of the GNU Lesser
+ * General Public License v3. See the file LICENSE in the top level
+ * directory for more details.
+ */
+
 #ifndef _FSM_H_
 #define _FSM_H_
 
